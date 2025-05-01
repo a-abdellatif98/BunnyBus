@@ -44,4 +44,4 @@ end
 
 gem "bunny", "~> 2.24"
 gem "sidekiq", "~> 7.3"
-gem "rspec-rails", "~> 7.1"
+gem "rspec-rails", "~> 8.0"
